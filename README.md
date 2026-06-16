@@ -1,6 +1,7 @@
 # Whisker Path 🐱
 
 An interactive pathfinding visualizer where a cat navigates a maze to reach a fish using a greedy best-first search algorithm. Click anywhere on the grid to set a destination and watch the cat find its way!
+(assets/preview.png)
 
 ## How It Works
 
