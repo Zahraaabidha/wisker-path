@@ -36,4 +36,4 @@ The cat sprite is a custom pixel art sheet with:
 
 ## Live Demo
 
-[whisker-path.vercel.app](https://whisker-path.vercel.app)
+[zahraaabidha.github.io/wisker-path/](https://zahraaabidha.github.io/wisker-path/)
